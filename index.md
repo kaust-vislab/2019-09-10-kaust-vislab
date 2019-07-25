@@ -7,7 +7,7 @@ country: "sa"
 language: "en"
 latlng: "22.307498, 39.104815"
 humandate: "10 September 2019"
-humantime: "1 pm  - 5:00 pm"
+humantime: "1:00 pm  - 5:00 pm"
 startdate: 2019-09-10      
 enddate: 2019-09-10        
 instructor: ["David R. Pugh"]
