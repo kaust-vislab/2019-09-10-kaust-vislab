@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"      
-venue: "KAUST Visualization Lab" 
-address: "Building 3, Room 5220 (Seaside)"
+venue: "KAUST Visualization Core Lab" 
+address: "Building 3, level 5, room 5220 (Seaside)"
 country: "sa"
 language: "en"
 latlng: "22.307498, 39.104815"
