@@ -101,6 +101,10 @@ This block displays the date and links to Google Calendar.
   <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_conda_for_data_scientists_fall_2019 ">Register Now!</a>
 </p>
 
+<p id="course-material">
+  <strong>Course Materials:</strong> <a href="https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/">Introduction to Conda for (Data) Scientists</a>
+</p>
+
 {% comment %}
 SPECIAL REQUIREMENTS
 
